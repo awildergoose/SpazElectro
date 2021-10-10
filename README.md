@@ -9,3 +9,5 @@
 - Discord: spoogus🎃#2407 (<@737764022409232426>)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there is no fun fact
+
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenRafft)](https://github.com/anuraghazra/github-readme-stats)
