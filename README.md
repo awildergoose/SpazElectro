@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything
 - 📫 How to reach me:
-- Discord: steves#7574 (<@737764022409232426>)
+- Discord: steve#7574 (<@737764022409232426>)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there is no fun fact
 
