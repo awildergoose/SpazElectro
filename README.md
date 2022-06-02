@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything
 - 📫 How to reach me: you don't
-- Discord: steve#7574 (<@737764022409232426> or https://www.discord.com/users/737764022409232426)
+- ![Discord](https://github.com/StevenRafft/StevenRafft/raw/main/discord.svg)Discord: steve#7574 (<@737764022409232426> or https://www.discord.com/users/737764022409232426)
 
 [![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenRafft&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenRafft&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
