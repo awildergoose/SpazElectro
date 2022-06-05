@@ -7,9 +7,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me:
 - Discord: steve#7574 or <@737764022409232426> or https://www.discord.com/users/737764022409232426
-- Facebook: sike, you thought
-- Instagram: stevesaidsikeyouthought
-- Youtube: https://www.youtube.com/channel/UCtE8p3tOZtEyvVIFgzbS8yQ (my content is shit don't expect anything good)
 
 [![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenRafft&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenRafft&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
