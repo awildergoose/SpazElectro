@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a reverse engineered version of Icy Tower
+- 🔭 I’m currently working on a modding framework for the Jazz Jackrabbit 2 game
 - 🌱 I’m currently learning reverse engineering
 - 💬 Ask me about anything
 - 📫 How to reach me:
