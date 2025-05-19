@@ -6,8 +6,8 @@
 - 📫 How to reach me:
 - Discord: @awild_goose or <@737764022409232426>
 
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpazElectro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpazElectro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=awildergoose&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awildergoose&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 I don't think anyone reads this, so, Hello world!
